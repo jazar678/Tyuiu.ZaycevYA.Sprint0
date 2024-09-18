@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 
 
-namespace Tyuiu.ZaicevYA.Sprint0.Task5.V0.Lib
+namespace Tyuiu.ZaycevYA.Sprint0.Task5.V0.Lib
 {
     public class DataService
     {

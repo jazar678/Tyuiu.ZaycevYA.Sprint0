@@ -1,4 +1,4 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+п»їusing Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using Tyuiu.ZaycevYA.Sprint0.Task2.V0.Lib;
 
@@ -13,12 +13,12 @@ namespace Tyuiu.ZaycevYA.Sprint0.Task2.V0.Test
         [TestMethod]
         public void CheckGetMessageValid()
         {
-            var name = "Ярослав";
+            var name = "РЇСЂРѕСЃР»Р°РІ";
 
 
             var res = DataService.GetMessage(name);
 
-            Assert.AreEqual("Привет,Ярослав", res);
+            Assert.AreEqual("РџСЂРёРІРµС‚,РЇСЂРѕСЃР»Р°РІ", res);
 
         }
     }

@@ -12,11 +12,11 @@ namespace Tyuiu.ZaycevYA.Sprint0.Task4.V0.Lib
 {
     public class DataService
     {
-        public static int Addition(int a , int b)
+        public static int Addition(int a, int b)
         {
             return a + b;
         }
-        public static int Sabtraction(int a , int b)
+        public static int Sabtraction(int a, int b)
         {
             return (a - b);
         }
