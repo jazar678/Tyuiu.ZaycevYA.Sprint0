@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using Tyuiu.ZaicevYA.Sprint0.Task4.V0;
+using Tyuiu.ZaycevYA.Sprint0.Task4.V0;
 
 
 
-namespace Tyuiu.ZaicevYA.Sprint0.Task4.V0.Lib
+namespace Tyuiu.ZaycevYA.Sprint0.Task4.V0.Lib
 {
     public class DataService
     {

@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.ZaicevYA.Sprint0.Task4.V0.Lib;
+using Tyuiu.ZaycevYA.Sprint0.Task4.V0.Lib;
 
 
 
 
 
-namespace Tyuiu.ZaicevYA.Sprint0.Task4.V0
+namespace Tyuiu.ZaycevYA.Sprint0.Task4.V0
 {
     class Program
     {

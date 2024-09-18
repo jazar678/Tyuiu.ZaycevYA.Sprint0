@@ -21,4 +21,3 @@ namespace Tyuiu.ZaycevYA.Sprint0.Task2.V0
         }
     }
 }
-
