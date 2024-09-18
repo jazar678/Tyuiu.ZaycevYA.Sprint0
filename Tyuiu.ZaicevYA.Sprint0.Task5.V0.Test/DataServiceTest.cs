@@ -1,11 +1,11 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using Tyuiu.ZaicevYA.Sprint0.Task5.V0.Lib;
+using Tyuiu.ZaycevYA.Sprint0.Task5.V0.Lib;
 
 
 
 
-namespace Tyuiu.ZaicevYA.Sprint0.Task5.V0.Test
+namespace Tyuiu.ZaycevYA.Sprint0.Task5.V0.Test
 {
     public class DataServiceTest
     {
